@@ -26,6 +26,4 @@ My journey in digital forensics and cyber security has led me to develop a passi
 
 
 ## Projects
--Active Directory (Part 1) Refer to the link below:
-
-https://github.com/tedwards45/Active-Directory-Lab
+-Active Directory (Part 1)
