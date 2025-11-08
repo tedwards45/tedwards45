@@ -12,7 +12,7 @@ I enjoy building labs that strengthen my skills in cybersecurity, system adminis
 ---
 
 ## 🎯 Career Objective
-I am building a professional foundation in **Cybersecurity** and **Information Technology** with the goal of advancing into roles such as:
+I am building a professional foundation in **Cybersecurity** and **Information Technology** to advance into roles such as:
 - 🛡️ **Security Operations Center (SOC) Analyst**  
 - 🖥️ **Systems Administrator**  
 - 💻 **IT Help Desk / Support Specialist**
@@ -53,7 +53,7 @@ I value teamwork, structure, and communication — the same qualities I bring fr
 
 ## 🧾 Certifications
 *(In Progress)*  
-- CompTIA **A+** 
+- **CompTIA A+** 
 
 ---
 
