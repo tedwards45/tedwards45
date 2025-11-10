@@ -58,7 +58,7 @@ I value teamwork, structure, and communication — the same qualities I bring fr
 ---
 
 ## 💻 Projects
-- [Active Directory (Part 1)] Windows Server setup and group management in Azure- Refer to the project tab
+- [Active Directory (Part 1)] Windows Server setup and group management in Azure- Refer to the repository tab under Active Directory Lab
 - *(More labs coming soon: Bastion Deployment, Security Hardening, SOC Fundamentals)*
 
 ---
