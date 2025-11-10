@@ -58,7 +58,7 @@ I value teamwork, structure, and communication — the same qualities I bring fr
 ---
 
 ## 💻 Projects
-- [Active Directory (Part 1)](https://github.com/tedwards45/Active-Directory-Part1) – Windows Server setup and group management in Azure  
+- [Active Directory (Part 1)] Windows Server setup and group management in Azure- Refer to the project tab
 - *(More labs coming soon: Bastion Deployment, Security Hardening, SOC Fundamentals)*
 
 ---
